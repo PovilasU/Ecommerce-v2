@@ -1,0 +1,27 @@
+body {
+    margin-bottom: 80px;
+}
+
+.page-header {
+    margin-top: 0!important;
+    padding-bottom: 0!important;
+}
+.panel-body {
+    padding-top: 0!important;
+}﻿
+
+.deaturedImg {
+     margin-bottom: 15px;
+     width: 100%;
+ }
+
+.no-padding{
+    padding-left:0!important;
+    padding-right:0!important;
+}
+
+/*--starts-top-header--*/
+.top-header {
+    background: #000;
+    padding: 10px 0px;
+}
